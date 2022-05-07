@@ -1,9 +1,4 @@
 
-.card{text-align: center; border: none; border-radius: 5px;-webkit-box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.75);
-    -moz-box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.75);
-    box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.75);
-    margin-bottom: 100px;
-    }
 
 
 
@@ -738,6 +733,14 @@ background-color: black;
         transform: translateY(0px);
     }
 }
+@media screen and (min-width: 480px) {
+  p{ font-size:12px;
+    
+  }
+    pre{font-size:12px;
+    }
+}
+
 
 
 
