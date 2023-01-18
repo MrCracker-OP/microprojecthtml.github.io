@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/MrCracker-OP/microprojecthtml.github.io/main/image/home-img.png)
+![Logo](https://raw.githubusercontent.com/MrCracker-OP/microprojecthtml.github.io/main/logo.png)
 
 
 # HTML - MICROPROJECT
